@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Dark Arts",
+  "base_artist": "aespa",
+  "createdAt": "2025-12-01T07:50:38.735676Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dark Arts",
+      "artist": "Man Man",
+      "has_synced": true,
+      "path": "select/01_Dark_Arts_Man_Man.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Masters Of The Dark Arts",
+      "artist": "La Coka Nostra",
+      "has_synced": false,
+      "path": "select/02_Masters_Of_The_Dark_Arts_La_Coka_Nostra.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Adventures in the Dark Arts of Watermelonery",
+      "artist": "The Saints",
+      "has_synced": true,
+      "path": "select/03_Adventures_in_the_Dark_Arts_of_Watermelonery_The_Saints.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "DARK ARTS",
+      "artist": "Nik Tendo",
+      "has_synced": true,
+      "path": "select/04_DARK_ARTS_Nik_Tendo.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Adventures In The Dark Arts Of Watermelonery (Midnight Session)",
+      "artist": "Saints, The",
+      "has_synced": true,
+      "path": "select/05_Adventures_In_The_Dark_Arts_Of_Watermelonery_(Midnight_Session)_Saints,_The.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Adventures In The Dark Arts Of Watermelonery (Midnight Session)",
+      "artist": "The Saints",
+      "has_synced": true,
+      "path": "select/06_Adventures_In_The_Dark_Arts_Of_Watermelonery_(Midnight_Session)_The_Saints.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Masters Of The Dark Arts",
+      "artist": "ILL BILL",
+      "has_synced": true,
+      "path": "select/07_Masters_Of_The_Dark_Arts_ILL_BILL.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Dark Arts of Sanguine Rituals",
+      "artist": "Inkvisitor",
+      "has_synced": false,
+      "path": "select/08_Dark_Arts_of_Sanguine_Rituals_Inkvisitor.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "dumbledore - DARK ARTS VERSION",
+      "artist": "Jagwar Twin",
+      "has_synced": true,
+      "path": "select/09_dumbledore_-_DARK_ARTS_VERSION_Jagwar_Twin.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Masters of the Dark Arts",
+      "artist": "La Coka Nostra",
+      "has_synced": true,
+      "path": "select/10_Masters_of_the_Dark_Arts_La_Coka_Nostra.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Dark Arts",
+      "artist": "aespa",
+      "has_synced": true,
+      "path": "select/11_Dark_Arts_aespa.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Dark Arts (Inst.)",
+      "artist": "aespa",
+      "has_synced": true,
+      "path": "select/12_Dark_Arts_(Inst.)_aespa.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Dark Arts",
+      "artist": "aespa",
+      "has_synced": false,
+      "path": "select/pl_01_Dark_Arts_aespa.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Dark Arts",
+      "artist": "aespa",
+      "has_synced": false,
+      "path": "select/pl_02_Dark_Arts_aespa.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Dark Arts",
+      "artist": "aespa",
+      "has_synced": false,
+      "path": "select/pl_03_Dark_Arts_aespa.txt"
+    }
+  ]
+}
